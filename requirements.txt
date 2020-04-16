@@ -1,0 +1,5 @@
+flask
+requests
+yara-python
+python-magic
+temp
